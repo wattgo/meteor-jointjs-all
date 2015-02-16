@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0.3.1');
-  api.use('backbone', 'client');
+  api.use('backbone@0.9.2', 'client');
   api.use('stevezhu:lodash@1.0.2', 'client');
   api.addFiles([ 'mxmxmx:jointjs-all.js', 'mxmxmx:jointjs-all.css' ], 'client');
 });
