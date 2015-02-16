@@ -3,3 +3,5 @@
 Available on [AtmosphereJS](https://atmospherejs.com/mxmxmx/jointjs-all)  
 `meteor add mxmxmx:jointjs-all`
 
+Inspired by [https://github.com/santteegt/meteor-joint](https://github.com/santteegt/meteor-joint)
+
